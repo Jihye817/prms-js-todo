@@ -5,13 +5,13 @@
   }[]
  * detailList {
     2: {
-       id: Date.now() + 1000,
-       createAt: new Date(),
-       description: "삼겹살",
-       category: "식사",
-       amount: 20000,
-       fundsAtTheTime: 9978000,
-     }[]
+      id: Date.now() + 1000,
+      createAt: new Date(),
+      description: "삼겹살",
+      category: "식사",
+      amount: 20000,
+      fundsAtTheTime: 9978000,
+    }[]
   }
  */
 export const store = {
